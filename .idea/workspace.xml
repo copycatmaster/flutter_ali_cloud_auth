@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fb29534-3d98-49f1-b08a-02fc5a01ed27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/5.5.13874142/MiddleTierSDK-external-release-5.5.13874142.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/MiddleTierSDK-external-release/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/5.5.28/SecurityBodySDK-external-release-5.5.28.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityBodySDK-external-release/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/5.5.28/SecurityGuardSDK-external-release-5.5.28.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/SecurityGuardSDK-external-release/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/2.9.2/oss-android-sdk-2.9.2.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/oss-android-sdk/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/4.8.2/rpsdk-4.8.2.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/rpsdk/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/1.0/windvane-1.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/maven-metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/maven-metadata.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/com/bee/windvane/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/jniLibs/arm64-v8a/libc++_shared.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/jniLibs/armeabi-v7a/libc++_shared.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/jniLibs/armeabi/libALBiometricsJni.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/jniLibs/armeabi/libc++_shared.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/bee/flutter_ali_cloud_auth_example/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/integration_test/app_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/integration_test/driver.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterAliCloudAuthPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterAliCloudAuthPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/flutter_ali_cloud_auth.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_ali_cloud_auth.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/flutter_ali_cloud_auth_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[172f292f]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qryfVBszSPUcUMV6mt13ROxhaV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.3264368" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fb29534-3d98-49f1-b08a-02fc5a01ed27" name="Default Changelist" comment="" />
+      <created>1617852106200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617852106200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="117" key="#PSD" timestamp="1617924633486">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="169" y="117" key="#PSD/0.23.1280.710@0.23.1280.710" timestamp="1617924633486" />
+    <state x="104" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617925361473">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="104" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.710@0.23.1280.710" timestamp="1617925361473" />
+    <state x="228" y="141" key="AndroidCreateResourceDirectoryDialog" timestamp="1617833859691">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="228" y="141" key="AndroidCreateResourceDirectoryDialog/0.23.1280.710@0.23.1280.710" timestamp="1617833859688" />
+    <state x="435" y="131" key="AndroidProcessChooserDialog" timestamp="1617995961044">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="435" y="131" key="AndroidProcessChooserDialog/0.23.1280.710@0.23.1280.710" timestamp="1617995961044" />
+    <state width="623" height="179" key="GridCell.Tab.0.bottom" timestamp="1618017118156">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="623" height="179" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1618017118156" />
+    <state width="623" height="179" key="GridCell.Tab.0.center" timestamp="1618017118154">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="623" height="179" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1618017118154" />
+    <state width="623" height="179" key="GridCell.Tab.0.left" timestamp="1618017118153">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="623" height="179" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1618017118153" />
+    <state width="623" height="179" key="GridCell.Tab.0.right" timestamp="1618017118155">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="623" height="179" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1618017118155" />
+    <state x="175" y="23" key="SettingsEditor" timestamp="1617925106947">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="175" y="23" key="SettingsEditor/0.23.1280.710@0.23.1280.710" timestamp="1617925106947" />
+    <state x="332" y="134" width="658" height="490" key="find.popup" timestamp="1618091541837">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="332" y="134" width="658" height="490" key="find.popup/0.23.1280.710@0.23.1280.710" timestamp="1618091541837" />
+    <state x="396" y="259" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1617924688459">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="396" y="259" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1280.710@0.23.1280.710" timestamp="1617924688459" />
+    <state x="355" y="57" width="670" height="676" key="search.everywhere.popup" timestamp="1618003034338">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="355" y="57" width="670" height="676" key="search.everywhere.popup/0.23.1280.710@0.23.1280.710" timestamp="1618003034338" />
+  </component>
+</project>
