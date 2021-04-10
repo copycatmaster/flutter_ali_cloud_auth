@@ -5,11 +5,11 @@ import 'package:flutter/services.dart';
 
 
 class FlutterAliCloudAuth {
-  static AUDIT_PASS = 1;
-  static AUDIT_FAIL = 0;
-  static AUDIT_NOT = -1;
+  static var AUDIT_PASS = 1;
+  static var AUDIT_FAIL = 0;
+  static var AUDIT_NOT = -1;
 
-  static code_msg = {
+  static Map<int,String> code_msg = {
     1:"认证通过",
     -1:"未完成认证，原因：用户在认证过程中，主动退出。",
     -10:"未完成认证，原因：设备问题，如设备无摄像头、无摄像头权限、摄像头初始化失败、当前手机不支持端活体算法等。",
@@ -33,7 +33,7 @@ class FlutterAliCloudAuth {
   static int idPool = 1;
   static Map<int, Function> callbacks = {};
   static Future<bool> init() async {
-    Future<void> _methodCallHandler(MethodCall call) async {
+    Future<Map> _methodCallHandler(MethodCall call) async {
       print("_methodCallHandler call");
       print(call.toString());
       if (call.method == "RPVerifyFinish") {
@@ -44,7 +44,9 @@ class FlutterAliCloudAuth {
         String resultMsg = call.arguments['resultMsg'];
         if (callbacks[callId] != null) {
           callbacks[callId](token, result, resultCode, resultMsg, callId);
-          call.result();
+          Map ret = {};
+          ret['code'] = "ok";
+          return ret;
         } else {
           print("error! bad callId" + callId.toString());
         }
@@ -52,6 +54,12 @@ class FlutterAliCloudAuth {
         print('call test!!!test!!!');
         Map ret = {};
         ret['code'] = '22';
+        ret['data'] = {"msg": "good"};
+        return ret;
+      } else {
+        Map ret = {};
+        ret['code'] = 'no_method';
+        ret['msg'] = "no this method";
         ret['data'] = {"msg": "good"};
         return ret;
       }

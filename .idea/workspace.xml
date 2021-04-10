@@ -6,7 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fb29534-3d98-49f1-b08a-02fc5a01ed27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_ali_cloud_auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_ali_cloud_auth.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,10 +91,10 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="175" y="23" key="SettingsEditor/0.23.1280.710@0.23.1280.710" timestamp="1617925106947" />
-    <state x="332" y="134" width="658" height="490" key="find.popup" timestamp="1618091541837">
+    <state x="332" y="134" width="658" height="490" key="find.popup" timestamp="1618092726808">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
-    <state x="332" y="134" width="658" height="490" key="find.popup/0.23.1280.710@0.23.1280.710" timestamp="1618091541837" />
+    <state x="332" y="134" width="658" height="490" key="find.popup/0.23.1280.710@0.23.1280.710" timestamp="1618092726808" />
     <state x="396" y="259" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1617924688459">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
