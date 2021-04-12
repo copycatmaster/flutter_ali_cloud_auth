@@ -175,7 +175,6 @@ public class FlutterAliCloudAuthPlugin implements FlutterPlugin, MethodCallHandl
                 } else {
                     RPVerify.start(activity,token,listener);
                 }
-                RPVerify.start(activity,token,listener);
             }
 
             result.success(packResult("ok", "ok", new HashMap<String,Object>() { { } }));
