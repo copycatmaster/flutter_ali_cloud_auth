@@ -1,0 +1,53 @@
+PODS:
+  - AlicloudRPSDK (4.8.0)
+  - AlicloudSecurityGuardSDK (5.4.193)
+  - AlicloudSGMain (5.4.193):
+    - AlicloudSecurityGuardSDK (= 5.4.193)
+  - AlicloudSGSecurityBody (5.4.12987657-rp):
+    - AlicloudSecurityGuardSDK (= 5.4.193)
+    - AlicloudSGMain (= 5.4.193)
+  - AliyunOSSiOS (2.10.8)
+  - Flutter (1.0.0)
+  - flutter_ali_cloud_auth (0.0.1):
+    - AlicloudRPSDK (= 4.8.0)
+    - AlicloudSGSecurityBody (= 5.4.12987657-rp)
+    - AliyunOSSiOS (= 2.10.8)
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ali_cloud_auth (from `.symlinks/plugins/flutter_ali_cloud_auth/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+SPEC REPOS:
+  https://github.com/aliyun/aliyun-specs.git:
+    - AlicloudRPSDK
+    - AlicloudSecurityGuardSDK
+    - AlicloudSGMain
+    - AlicloudSGSecurityBody
+  https://github.com/CocoaPods/Specs.git:
+    - AliyunOSSiOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ali_cloud_auth:
+    :path: ".symlinks/plugins/flutter_ali_cloud_auth/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  AlicloudRPSDK: 502a18e617731ac883ea3278eaef9b115a322d54
+  AlicloudSecurityGuardSDK: cb73895dc44e304d6dc904653b98919de6057709
+  AlicloudSGMain: ad7fe9a29c92d4805f9aa65b03338dd16d5a3588
+  AlicloudSGSecurityBody: e76e2fe51ee796d30bdb3a9d6c30b3736aa90e0c
+  AliyunOSSiOS: 8db92936545593b9e5c66d680ef2ac0738946651
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_ali_cloud_auth: 14ab05c1730f76cfd1372eb5290a463f7362af16
+  integration_test: 6eb66a19f7104200dcfdd62bc0077e1b09686e4f
+
+PODFILE CHECKSUM: 4f0758b1ad719ae7c079e968db5122e22cd2010c
+
+COCOAPODS: 1.10.1

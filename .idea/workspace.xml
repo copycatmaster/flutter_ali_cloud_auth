@@ -6,11 +6,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fb29534-3d98-49f1-b08a-02fc5a01ed27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/flutter_ali_cloud_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/flutter_ali_cloud_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/ios/flutter_ali_cloud_auth.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/ios/flutter_ali_cloud_auth.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/lib/flutter_ali_cloud_auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/lib/flutter_ali_cloud_auth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_ali_cloud_auth.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_ali_cloud_auth.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/flutter_ali_cloud_auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_ali_cloud_auth.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -19,11 +38,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[172f292f]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qryfVBszSPUcUMV6mt13ROxhaV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,37 +91,48 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="435" y="131" key="AndroidProcessChooserDialog/0.23.1280.710@0.23.1280.710" timestamp="1617995961044" />
-    <state width="623" height="179" key="GridCell.Tab.0.bottom" timestamp="1618017118156">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="619" height="519" key="GridCell.Tab.0.bottom" timestamp="1618169720343">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
+    <state width="619" height="265" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1618146280673" />
     <state width="623" height="179" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1618017118156" />
-    <state width="623" height="179" key="GridCell.Tab.0.center" timestamp="1618017118154">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="619" height="519" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1618169720343" />
+    <state width="619" height="519" key="GridCell.Tab.0.center" timestamp="1618169720341">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
+    <state width="619" height="265" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1618146280672" />
     <state width="623" height="179" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1618017118154" />
-    <state width="623" height="179" key="GridCell.Tab.0.left" timestamp="1618017118153">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="619" height="519" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1618169720341" />
+    <state width="619" height="519" key="GridCell.Tab.0.left" timestamp="1618169720340">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
+    <state width="619" height="265" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1618146280672" />
     <state width="623" height="179" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1618017118153" />
-    <state width="623" height="179" key="GridCell.Tab.0.right" timestamp="1618017118155">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="619" height="519" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1618169720340" />
+    <state width="619" height="519" key="GridCell.Tab.0.right" timestamp="1618169720341">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
+    <state width="619" height="265" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1618146280672" />
     <state width="623" height="179" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1618017118155" />
+    <state width="619" height="519" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1618169720341" />
     <state x="175" y="23" key="SettingsEditor" timestamp="1617925106947">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="175" y="23" key="SettingsEditor/0.23.1280.710@0.23.1280.710" timestamp="1617925106947" />
-    <state x="332" y="134" width="658" height="490" key="find.popup" timestamp="1618092726808">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state x="332" y="134" width="658" height="493" key="find.popup" timestamp="1618149652037">
+      <screen x="0" y="23" width="1280" height="712" />
     </state>
+    <state x="332" y="134" width="658" height="490" key="find.popup/0.23.1280.709@0.23.1280.709" timestamp="1618148269977" />
     <state x="332" y="134" width="658" height="490" key="find.popup/0.23.1280.710@0.23.1280.710" timestamp="1618092726808" />
+    <state x="332" y="134" width="658" height="493" key="find.popup/0.23.1280.712@0.23.1280.712" timestamp="1618149652037" />
     <state x="396" y="259" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1617924688459">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="396" y="259" width="618" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1280.710@0.23.1280.710" timestamp="1617924688459" />
-    <state x="355" y="57" width="670" height="676" key="search.everywhere.popup" timestamp="1618003034338">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state x="355" y="57" width="670" height="676" key="search.everywhere.popup" timestamp="1618101167003">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state x="355" y="57" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1618101167003" />
     <state x="355" y="57" width="670" height="676" key="search.everywhere.popup/0.23.1280.710@0.23.1280.710" timestamp="1618003034338" />
   </component>
 </project>

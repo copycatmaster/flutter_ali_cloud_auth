@@ -19,6 +19,7 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
+    FlutterAliCloudAuth.init();
   }
 
   Future<void> startAuth(String token, Function func) async {
@@ -36,10 +37,12 @@ class _MyAppState extends State<MyApp> {
       }
     }
   }
-  Future<void> startAuthNative(String token, Function func) async {
+
+  Future<void> startAuthWithConfig(Map config, Function func) async {
     try {
       print(" call startAuth in main.dart");
-      Map tokenResult = await FlutterAliCloudAuth.startAuthNative(token, func);
+      Map tokenResult =
+          await FlutterAliCloudAuth.startAuthWithConfig(config, func);
       print(tokenResult.toString());
     } catch (e) {
       print(e.toString());
@@ -52,8 +55,6 @@ class _MyAppState extends State<MyApp> {
     }
   }
 
-
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -65,47 +66,53 @@ class _MyAppState extends State<MyApp> {
             child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
-                  FlatButton(
-                    materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    color: Colors.white,
-                    shape: RoundedRectangleBorder(
-                      // side: BorderSide(
-                      //   color: Colors.black12,
-                      // ),
-                      borderRadius: BorderRadius.circular(12),
-                    ),
-                    onPressed: () {
-                      startAuth("8f46fd9afddf4551b7f63e02aa6ca2ef", (token, result, resultCode, resultMsg, callId) {
-                        print("token!!" + token.toString());
-                        print("result!!" + result.toString());
-                        print("resultCode!!" + resultCode.toString());
-                        print("resultMsg!!" + resultMsg.toString());
-                        print("callId!!" + callId.toString());
-                      });
-                    },
-                    child: Text("开始"),
-                  ),
-                  FlatButton(
-                    materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                    color: Colors.white,
-                    shape: RoundedRectangleBorder(
-                      // side: BorderSide(
-                      //   color: Colors.black12,
-                      // ),
-                      borderRadius: BorderRadius.circular(12),
-                    ),
-                    onPressed: () {
-                      startAuthNative("8f46fd9afddf4551b7f63e02aa6ca2ef", (token, result, resultCode, resultMsg, callId) {
-                        print("token!!" + token.toString());
-                        print("result!!" + result.toString());
-                        print("resultCode!!" + resultCode.toString());
-                        print("resultMsg!!" + resultMsg.toString());
-                        print("callId!!" + callId.toString());
-                      });
-                    },
-                    child: Text("开始22"),
-                  )
-                ])),
+              FlatButton(
+                materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                color: Colors.white,
+                shape: RoundedRectangleBorder(
+                  // side: BorderSide(
+                  //   color: Colors.black12,
+                  // ),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                onPressed: () {
+                  startAuth("554b24700550468e90b6949f927cbd44",
+                      (token, result, resultCode, resultMsg, callId) {
+                    print("token!!" + token.toString());
+                    print("result!!" + result.toString());
+                    print("resultCode!!" + resultCode.toString());
+                    print("resultMsg!!" + resultMsg.toString());
+                    print("callId!!" + callId.toString());
+                  });
+                },
+                child: Text("开始"),
+              ),
+              FlatButton(
+                materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                color: Colors.white,
+                shape: RoundedRectangleBorder(
+                  // side: BorderSide(
+                  //   color: Colors.black12,
+                  // ),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                onPressed: () {
+                  startAuthWithConfig({
+                    "skinInAssets": true,
+                    "skinPath": "",
+                    "token": "554b24700550468e90b6949f927cbd44",
+                    "native": true
+                  }, (token, result, resultCode, resultMsg, callId) {
+                    print("token!!" + token.toString());
+                    print("result!!" + result.toString());
+                    print("resultCode!!" + resultCode.toString());
+                    print("resultMsg!!" + resultMsg.toString());
+                    print("callId!!" + callId.toString());
+                  });
+                },
+                child: Text("开始22"),
+              )
+            ])),
       ),
     );
   }
