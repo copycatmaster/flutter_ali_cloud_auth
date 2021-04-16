@@ -52,6 +52,7 @@
 //                    // 具体原因可通过result.errorCode来区分（详见文末错误码说明表格）。
 //                    break;
 //            };
+          dispatch_async(dispatch_get_main_queue(), ^{
           [weakSelf.channel invokeMethod: @"RPVerifyFinish" arguments:@{
               @"callId":call.arguments[@"callId"],
               @"token":call.arguments[@"token"],
@@ -61,6 +62,7 @@
                         NSLog(@"result: %@",[result description]);
                     }];
           NSLog(@"try call RPVerifyFinish from native");
+          });
       };
       if ([[call.arguments objectForKey:@"native"]  isEqual: @1] ) {
           NSLog(@"startNative");

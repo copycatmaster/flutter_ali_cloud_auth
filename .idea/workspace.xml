@@ -6,11 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fb29534-3d98-49f1-b08a-02fc5a01ed27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/flutter_ali_cloud_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/flutter_ali_cloud_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_ali_cloud_auth/android/src/main/java/com/bee/flutter_ali_cloud_auth/FlutterAliCloudAuthPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_ali_cloud_auth.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -157,6 +157,7 @@ public class FlutterAliCloudAuthPlugin implements FlutterPlugin, MethodCallHandl
             };
             if (isNative!=null && isNative==true) {
                 if (skinPath!= null) {
+                    Log.i("flutter","notice: do not put Resources&RPSkin.json in flutter_assets, in a sub folder instead.");
                     RPConfig.Builder configBuilder = new RPConfig.Builder()
                             .setSkinInAssets(skinInAssets==true) // 是否是内置皮肤
                             .setSkinPath(skinPath); // 设置皮肤路径
